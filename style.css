@@ -1,0 +1,60 @@
+    body {
+        background-color: #F6F6F7!important;
+        padding-top: 10px;
+    }
+    
+    .insert_trigger {
+        background-color: #FFFFFF;
+        -webkit-box-shadow: 0px 1px 3px 2px rgba(235, 235, 235, 1);
+        -moz-box-shadow: 0px 1px 3px 2px rgba(235, 235, 235, 1);
+        box-shadow: 0px 1px 3px 2px rgba(235, 235, 235, 1);
+        width: 450px;
+        margin: auto;
+        cursor: pointer;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    
+    .insert_container {
+        width: 450px;
+        background-color: #FFFFFF;
+        margin: auto;
+        -webkit-box-shadow: 0px 1px 3px 2px rgba(235, 235, 235, 1);
+        -moz-box-shadow: 0px 1px 3px 2px rgba(235, 235, 235, 1);
+        box-shadow: 0px 1px 3px 2px rgba(235, 235, 235, 1);
+        border-radius: 3px;
+        margin-top: 30px;
+        padding: 40px;
+        padding-top: 20px;
+        display: none;
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .insert_title {
+        font-size: 140%;
+        border-bottom: 1px solid lightgray;
+        width: 100%;
+    }
+    
+    .prio_picker {
+        width: 200px;
+    }
+    
+    .star_image {
+        width: 10px;
+    }
+    
+    .form-control {
+        resize: none;
+    }
+    
+    .list-container {
+        background-color: #FFFFFF;
+        -webkit-box-shadow: 0px 1px 3px 2px rgba(235, 235, 235, 1);
+        -moz-box-shadow: 0px 1px 3px 2px rgba(235, 235, 235, 1);
+        box-shadow: 0px 1px 3px 2px rgba(235, 235, 235, 1);
+    }
